@@ -1,23 +1,5 @@
 # E-Commerce-Customer-Intelligence-Revenue
 
-ecommerce-sql-powerbi-analytics/
-│
-├── sql/
-│   ├── 01_schema_setup.sql          # Table creation and DDL scripts
-│   ├── 02_data_insertion.sql       # Sample data inserts (if applicable)
-│   └── 03_business_queries.sql      # Advanced queries (subqueries, CTEs, joins, aggregations)
-│
-├── powerbi/
-│   ├── ecommerce_analytics.pbix    # Main Power BI Desktop file
-│   └── dax_measures.txt            # Documented DAX measures for easy reading
-│
-├── assets/
-│   ├── dashboard_overview.png      # Screenshot of Report Page 1
-│   ├── customer_deepdive.png       # Screenshot of Report Page 2
-│   └── data_model_star_schema.png  # Screenshot of Model View relationships
-│
-├── .gitignore
-└── README.md
 
 # 📊 E-Commerce End-to-End Analytics: SQL & Power BI
 
@@ -33,6 +15,11 @@ An end-to-end data analytics project exploring customer purchasing behavior, rev
 * **Business Intelligence:** Microsoft Power BI Desktop
 * **Data Modeling:** Star Schema (1-to-many relationships)
 * **Analytics Languages:** SQL (DDL, DML, CTEs, Window Functions, Correlated Subqueries), DAX (Time Intelligence, Iterators)
+
+<img width="1880" height="859" alt="image" src="https://github.com/user-attachments/assets/9766de9a-5e04-4b3c-a410-899757074c20" />
+
+
+<img width="1736" height="892" alt="image" src="https://github.com/user-attachments/assets/b0a7a9f5-72f6-4b1c-ae2a-5b1ed5344183" />
 
 ---
 
